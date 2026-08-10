@@ -1,0 +1,12 @@
+Źródła i licencje (wszystkie w domenie publicznej):
+
+shevchenko.png     — Taras Szewczenko, autoportret, 1857. Autor: Taras Szewczenko.
+lenin.png          — Wołodymyr Lenin, portret fot. ok. 1918–1920. Autor: nieznany.
+                     (plik źródłowy miał znak wodny Adobe Stock — zalecana podmiana
+                      na oryginał z Wikimedia Commons; obraz i tak jest PD)
+lesia_ukrainka.png — Łesia Ukrainka, portret, przed 1913. Autor: nieznany.
+franko.png         — Iwan Franko, portret, ok. 1900. Fot. Ivan Trush.
+sahaidachny.png    — Petro Konaszewycz-Sahajdaczny, portret, XVII w. Autor: anonimowy.
+
+Kanoniczne wersje plików najlepiej pobrać z Wikimedia Commons.
+Te same dane są zaszyte w metadanych każdego PNG (Title/Author/Source/Copyright).
